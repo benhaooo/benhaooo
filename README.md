@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 benhaooo here.
 
-<!--
-**benhaooo/benhaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👩‍💻 Software Engineer with a focus on front-end development
+- 🧐 Interested in everything, know a little about everything
+- 📝 Vue.JS (TSX) / React for frontend, Use NodeJS / Python backend
+- 🌟 Make something to improve my life
+- 💕 Opensource
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwindcss,less,npm,vite,electron,nodejs,python,java,git,linux,docker,git,github,mysql,cloudflare,vercel,vscode,md,ps,ai)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=benhaooo&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhaooo&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
