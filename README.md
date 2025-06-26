@@ -11,3 +11,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=benhaooo&show_icons=true&theme=radical" alt="benhaooo's GitHub stats" height="185px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhaooo&layout=compact&theme=radical" alt="Top Langs" height="185px">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/benhaooo/benhaooo/output/github-contribution-grid-snake.svg)
+
